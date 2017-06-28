@@ -1,5 +1,5 @@
 body {
-  background-color: #fbc547;
+  background-color: #fff;
   color: #333;
   font-family: -apple-system, BlinkMacSystemFont, "Avenir Next", "Avenir",
     "Segoe UI", "Lucida Grande", "Helvetica Neue", "Helvetica", "Fira Sans",
@@ -7,6 +7,10 @@ body {
     "Franklin Gothic Medium", "Century Gothic", "Liberation Sans", sans-serif;
   padding: 18vh 1rem;
   text-align: center;
+}
+
+.content-bounds {
+  max-width: 200rem;
 }
 
 a {
@@ -20,5 +24,5 @@ a {
 
 .middleman-logo {
   margin-bottom: 1rem;
-  width: 10rem;
+  width: 10rem; 
 }
