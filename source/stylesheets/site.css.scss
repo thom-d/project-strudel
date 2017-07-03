@@ -1,6 +1,6 @@
 body {
   background-color: #fff;
-  color: #333;
+  color: #4A4A4A;
   font-family: 'Roboto', "Helvetica", sans-serif;
   padding: 0; margin: 4em 0 0 0;
   text-align: center;
@@ -62,20 +62,24 @@ a {
   padding: 36px 0;
 }
 
+.container {
+  display: inline-flex;
+  border-top: 1px solid #eee;
+}
+
 .flex-style {
-  display: flex;
   flex-direction: row;
   height: 100%;
+  padding: 24px 24px 24px 32px;
+  text-align: left;
 }
 
 .design-think {
-  flex-flow: row nowrap;
-  height: 100%;
+  border-right: 1px solid #eee;
 }
 
-.the-project {
-  flex-flow: row nowrap;
-  height: 100%;
+.what-1 {
+  text-align: center;
 }
 
 .step-1 {
