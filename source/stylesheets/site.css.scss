@@ -43,12 +43,6 @@ p {
     display: inline-block;
   }
 
-.content-bounds {
-  max-width: 60rem;
-  margin: auto;
-  padding: 0 36px;
-}
-
 a {
   color: rgba(#000, 0.7);
 
@@ -58,8 +52,10 @@ a {
   }
 }
 
-.project-section {
-  padding: 36px 0;
+.content-bounds {
+  max-width: 60rem;
+  margin: auto;
+  padding: 0 36px;
 }
 
 .container {
@@ -67,35 +63,63 @@ a {
   border-top: 1px solid #eee;
 }
 
-.flex-style {
-  flex-direction: row;
-  width: 50%; height: 100%;
-  padding: 32px;
-  margin: auto;
-  text-align: left;
+  .flex-style {
+    flex-direction: row;
+    width: 50%; height: 100%;
+    padding: 32px;
+    margin: auto;
+    text-align: left;
+  }
+
+  .ux-defined {
+    padding-left: 0;
+    margin: 0;
+    border-right: 1px solid #eee;
+  }
+
+.quote {
+  min-height: 1.5em;
+  max-width: 100%;
+  padding: 8px 0;
+  margin: 0 auto;
+  background: #212121;
+  color: #fff;
 }
 
-.ux-defined {
-  padding-left: 0;
-  margin: 0;
-  border-right: 1px solid #eee;
+.project-section {
+  padding: 36px 0;
 }
 
-.design-think {
-  padding-right: 0;
+.start-cta {
+  max-height: 40px;
+  max-width: 250px;
+  padding: 1em 0;
+  margin: 32px auto 0 auto;
+  border-radius: 3px;
+  border: 1px solid #2b5a87;
+  font-weight: 400;
+  letter-spacing: .5px;
+  background-color: #2b5a87;
+  color: #fff;
+  text-decoration: none;
 }
 
-.what-1 {
-  text-align: center;
-}
+  .design-think {
+    padding-right: 0;
+  }
 
-.step-1 {
-  background: #eee;
-}
+  .what-1 {
+    text-align: center;
+  }
 
-.step-2 {
-  background: #505050;
-}
+  .step-1 {
+    background: #eee;
+    padding-bottom: 60px;
+  }
+
+  .step-2 {
+    background: #505050;
+  }
 
 footer {
   max-width: 100%;
