@@ -41,10 +41,11 @@ p {
     padding: 0;
     margin: 0 12px;
     display: inline-block;
+    color: #4A4A4A;
   }
 
 a {
-  color: rgba(#000, 0.7);
+  color: #fff;
 
   &:focus,
   &:hover {
@@ -90,7 +91,7 @@ a {
   padding: 36px 0;
 }
 
-.start-cta {
+.start-cta-btn {
   max-height: 40px;
   max-width: 250px;
   padding: 1em 0;
@@ -104,6 +105,10 @@ a {
   text-decoration: none;
 }
 
+  .start-cta-link {
+    text-decoration: none;
+  }
+
   .design-think {
     padding-right: 0;
   }
@@ -114,12 +119,22 @@ a {
 
   .step-1 {
     background: #eee;
-    padding-bottom: 60px;
+    padding-bottom: 80px;
   }
 
-  .step-2 {
-    background: #505050;
+  .step-5 {
+    background: #eee;
   }
+
+  .ux-process {
+    margin: 0 auto;
+    background-size: cover;
+  }
+
+  .ux-process-img {
+    width: 1032;
+  }
+
 
 footer {
   max-width: 100%;

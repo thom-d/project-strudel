@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1032px" height="300px" viewBox="0 0 1100 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>ux-process</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-size="16" font-family="Roboto-Medium, Roboto" font-weight="400">
+        <g id="ux-process" fill="#9B9B9B">
+            <text id="Wireframes">
+                <tspan x="807.59567" y="89">Wireframes</tspan>
+            </text>
+            <text id="Design-Comps">
+                <tspan x="932.912076" y="135">Design Comps</tspan>
+            </text>
+            <text id="Brainstorming">
+                <tspan x="679.361295" y="195">Brainstorming</tspan>
+            </text>
+            <text id="Content">
+                <tspan x="870.662076" y="230">Content</tspan>
+            </text>
+            <text id="Benchmarking-Report">
+                <tspan x="172.224576" y="89">Benchmarking Report</tspan>
+            </text>
+            <text id="Requirements-Gatheri">
+                <tspan x="45.9823884" y="146">Requirements Gatherings</tspan>
+            </text>
+            <text id="User-Journey">
+                <tspan x="240.669888" y="203">User Journey</tspan>
+            </text>
+            <text id="User-Task-Flow">
+                <tspan x="405.982388" y="146">User Task Flow</tspan>
+            </text>
+            <text id="User-Research">
+                <tspan x="370.107388" y="241">User Research</tspan>
+            </text>
+            <text id="Information-Architec">
+                <tspan x="442.040982" y="70">Information Architecture</tspan>
+            </text>
+            <text id="Sitemaps">
+                <tspan x="643.072461" y="127">Sitemaps</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
