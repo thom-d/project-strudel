@@ -27,9 +27,12 @@ p {
 
 hr {
   max-width: 60rem;
-  margin: 2rem auto;
-  border-top: 0.5px solid #eee;
-  padding: 0;
+  margin-left: auto;
+  maargin-right: auto;
+  height: 1px;
+  background-color: #eee;
+  color: #eee;
+  border: 0 none;
 }
 
 #gfs-ci-navbar {
@@ -133,13 +136,34 @@ a {
     background: #eee;
   }
 
-  .ux-process {
-    margin: 0 auto;
-    background-size: cover;
+  .card-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 1.5em 1.5em;
   }
 
-  .ux-process-img {
-    width: 1032;
+  .team-id-card {
+    display: flex;
+    flex-direction: row;
+    min-width: 500px;
+    min-height: 200px;
+    border: 1px solid #e0e0e0;
+    border-radius: 4px;
+    margin: 1em;
+    
+  }
+
+  .team-img {
+    background: #212121;
+    max-width: 40%; height: 100%;
+    background-size: cover;
+    border-radius: 3px 0 0 3px;
+    padding: 0;
+    margin: 0;
+  }
+
+  .team-title {
   }
 
 
