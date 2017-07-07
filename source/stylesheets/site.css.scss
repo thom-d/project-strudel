@@ -27,8 +27,7 @@ p {
 
 hr {
   max-width: 60rem;
-  margin-left: auto;
-  maargin-right: auto;
+  margin: 1em auto;
   height: 1px;
   background-color: #eee;
   color: #eee;
@@ -184,7 +183,17 @@ a {
   .value-container {
     display: flex;
     flex-wrap: wrap;
+    align-items: center;
+    text-align: left;
+    margin-top: 24px;
+    padding-left: 3em;
   }
+
+    .bold {
+      font-weight: 700;
+      font-size: 18px;
+    }
+
 
 
 footer {
