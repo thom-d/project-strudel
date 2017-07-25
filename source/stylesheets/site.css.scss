@@ -55,16 +55,16 @@ hr {
     margin: 0 8px;
     display: inline-block;
     color: #4A4A4A;
+    text-decoration: none;
   }
 
 a {
   color: #fff;
-
-  &:focus,
-  &:hover {
-    color: rgba(#000, 0.6);
-  }
 }
+
+  .nav-menu:hover {
+    color: #c80000;
+  }
 
   .logo {
   background: #c80000;
