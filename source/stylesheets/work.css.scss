@@ -1,0 +1,52 @@
+.myButton {
+  background-color:#2b5a87;
+  border-radius:3px;  
+    -moz-border-radius:3px;
+    -webkit-border-radius:3px;
+  display:inline-block;
+  cursor:pointer;
+  color:#ffffff;
+  font-family:Arial;
+  font-size:16px;
+  font-weight:bold;
+  padding:16px 31px;
+  text-decoration:none;
+}
+.myButton:hover {
+  background-color:#1B4B79;
+}
+.myButton:active {
+  position:relative;
+  top:1px;
+}
+
+.card {
+  background: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 3px;
+  max-width: 20em; min-height: 25rem;
+  padding: 2em 1.5em;
+  margin: 1em;
+}
+
+.card:hover {
+  border: 1px solid #fff;
+  -webkit-box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px     10px rgba(0,0,0,0.22);
+  -moz-box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 
+  10px rgba(0,0,0,0.22);
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px  
+  rgba(0,0,0,0.22);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+}
+
+.repo-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.repo-content-bounds {
+  max-width: 80rem;
+  margin: auto;
+  padding: 0 36px;
+}

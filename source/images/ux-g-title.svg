@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="236px" height="60px" viewBox="0 0 236 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>ux-g-title</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ux-g-title">
+            <g id="App-Mark">
+                <g id="G">
+                    <rect id="Rectangle" fill="#C80000" x="0" y="0" width="60" height="60"></rect>
+                    <path d="M39.536875,31.8825 C39.5351405,30.3937696 39.8341405,28.9200281 40.4159375,27.5496875 L30.2178125,27.5496875 L30.2178125,32.5184375 L35.0084375,32.5184375 L35.0084375,34.9209375 C33.906875,35.6596875 32.4859375,36.048125 30.8834375,36.048125 C27.16,36.048125 24.2428125,33.2075 24.2428125,29.516875 C24.2428125,26.0971875 27.1871875,23.0978125 30.5434375,23.0978125 C32.7884375,23.0978125 34.3353125,23.6603125 36.0621875,25.100625 L36.335625,25.32875 L39.69375,21.2803125 L39.4265625,21.0521875 C36.8746875,18.884375 34.3453125,18 30.696875,18 C24.138125,18 19,23.0696875 19,29.605 C19,36.2584375 23.9325,41.0865625 30.7284375,41.0865625 C34.1896875,41.0865625 38.2246875,39.4615625 40.7690625,37.0415625 L40.8003125,37.0103125 C39.9705072,35.4284322 39.5369566,33.6688152 39.536875,31.8825 L39.536875,31.8825 Z" id="Shape" fill="#FFFFFF"></path>
+                </g>
+                <text id="User-Experience-Team" font-family="Roboto-Bold, Roboto" font-size="16" font-weight="bold" fill="#4A4A4A">
+                    <tspan x="75" y="35">User Experience Team </tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
