@@ -3,6 +3,10 @@ body {
   color: #4A4A4A;
   font-family: 'Roboto', "Helvetica", sans-serif;
   padding: 0; margin: 4em 0 0 0;
+
+}
+
+body.landing {
   text-align: center;
 }
 
@@ -23,6 +27,7 @@ h3 {
 p {
   font-size: 16px;
   font-weight: 400;
+  max-width: 60rem;
 }
 
 hr {
@@ -79,6 +84,7 @@ a {
   max-width: 60rem;
   margin: auto;
   padding: 0 36px;
+  text-align: center;
 }
 
 .container {
@@ -203,6 +209,19 @@ a {
       font-size: 18px;
     }
 
+label {
+  font-weight: bold;
+  display: block;
+}
+
+input.typeahead {
+  border: 1px solid #d0d2d3;
+  padding: 8px 10px;
+  border-radius: 2px;
+  font-size: 16px;
+  text-indent: 20px;
+  margin: 0.5em 0;
+}
 
 footer {
   max-width: 100%;
