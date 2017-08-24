@@ -64,7 +64,11 @@ hr {
   }
 
 a {
-  color: red;
+  color: #fff;
+}
+
+a:hover {
+  color: #c80000;
 }
 
   .nav-menu:hover {
